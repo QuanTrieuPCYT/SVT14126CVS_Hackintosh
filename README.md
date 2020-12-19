@@ -8,6 +8,11 @@ If you have a Sony VAIO SVT14 with a Z40UL.MB motherboard, you can use this EFI!
 - Patch iGPU (change AAPL,ig-platform-id to 03006601 for 1366x768, 04006601 and add some parameters for 1600x900 or higher)
 - Change SMBIOS information
 
+Lemme tell you guys a story...
+I had an old laptop, which is badly smashed (Sony VAIO SVT14126CVS).
+I pulled the mainboard out, removed the screen and the keyboard. Now it's a real Desktop PC.
+Display output using HDMI. VGA is working (tested with my old 1280x1024 VGA display) but not under macOS.
+
 Specs:
 - CPU: Intel Core i5-3337U (Ivy Bridge Mobile)
 - RAM: 8GB DDR3
@@ -15,6 +20,8 @@ Specs:
 - Motherboard: Z40UL.MB (mainboard of the SVT14 VAIOs, mine is SVT14126CVS)
 - SSD: Kingston V300 120GB
 - Wireless Card: AR9485
+- LAN Controller: RTL8111
+- HDMI as screen output.
 
 Everything is working on this PC running macOS except:
 - The RTS5209 Realtek PCIe SD Card Reader is not functioning properly. You will need to insert the card before booting so macOS can recognize your card. ProDuo cards is not tested, if you can please test it for me.
