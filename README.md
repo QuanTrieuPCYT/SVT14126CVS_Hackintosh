@@ -26,7 +26,7 @@ Specs:
 Everything is working on this PC running macOS except:
 - The RTS5209 Realtek PCIe SD Card Reader is not functioning properly. You will need to insert the card before booting so macOS can recognize your card. ProDuo cards is not tested, if you can please test it for me.
 - Bluetooth is not working on AR9485 (since High Sierra maybe). Wi-FI is working but with a really slow speed.
-- Apple DRM contents (According to OpenCore Instal Guide, DRM is broken on iGPU-only PCs)
+- Apple DRM contents (According to OpenCore Install Guide, DRM is broken on iGPU-only PCs)
 
 Have fun!
 <3 from QuanTrieuPCYT
