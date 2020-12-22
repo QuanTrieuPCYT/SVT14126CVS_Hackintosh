@@ -3,6 +3,8 @@ Here you can download the EFI of QuanTrieuPCYT's new hackintosh PC!
 OpenCore 0.6.4 bootloader, with OpenCanopy Big Sur and Boot Chime!
 Designed for Big Sur, Catalina and older please change SMBIOS.
 
+You want sidecar support? Go get <a href="https://github.com/hieplpvip/SidecarEnabler">Sidecar Enabler</a>!
+
 If you have a Sony VAIO SVT14 with a Z40UL.MB motherboard, you can use this EFI! But you will need to change the followings:
 - Add Kexts for your Camera and your ELAN touch screen.
 - Patch iGPU (change AAPL,ig-platform-id to 03006601 for 1366x768, 04006601 and add some parameters for 1600x900 or higher)
