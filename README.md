@@ -1,7 +1,7 @@
-<h2>My_YT_Moaec OpenCore EFI</h2>
-Here you can download the EFI of QuanTrieuPCYT's new hackintosh PC!
-OpenCore 0.6.4 bootloader, with OpenCanopy Big Sur and Boot Chime!
-Designed for Big Sur, Catalina and older please change SMBIOS.
+<h1>My_YT_Moaec OpenCore EFI</h1>
+<h2>Here you can download the EFI of QuanTrieuPCYT's new hackintosh PC!</h2>
+<h2>OpenCore 0.6.4 bootloader, with OpenCanopy Big Sur and Boot Chime!</h2>
+<p>Designed for Big Sur, Catalina and older please change SMBIOS.</p>
 
 You want sidecar support? Go get <a href="https://github.com/hieplpvip/SidecarEnabler">Sidecar Enabler</a>!
 
@@ -11,9 +11,9 @@ If you have a Sony VAIO SVT14 with a Z40UL.MB motherboard, you can use this EFI!
 - Change SMBIOS information
 
 Lemme tell you guys a story...
-I had an old laptop, which is badly smashed (Sony VAIO SVT14126CVS).
-I pulled the mainboard out, removed the screen and the keyboard. Now it's a real Desktop PC.
-Display output using HDMI. VGA is working (tested with my old 1280x1024 VGA display) but not under macOS.
+<p>I had an old laptop, which is badly smashed (Sony VAIO SVT14126CVS).</p>
+<p>I pulled the mainboard out, removed the screen and the keyboard. Now it's a real Desktop PC.</p>
+<p>Display output using HDMI. VGA is working (tested with my old 1280x1024 VGA display) but not under macOS.</p>
 
 Specs:
 - CPU: Intel Core i5-3337U (Ivy Bridge Mobile)
