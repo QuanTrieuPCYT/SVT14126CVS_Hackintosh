@@ -27,7 +27,7 @@ Specs:
 
 Everything is working on this PC running macOS except:
 - Unstable FireVault upport.
-- The RTS5209 Realtek PCIe SD Card Reader is not functioning properly. You will need to insert the card before booting so macOS can recognize your card. And also, after putting your PC into sleep mode and wake it up again, the SD Card Reader no longer functions, so if you want to use the SD Card continuously please don't put the PC into sleep. ProDuo cards is not tested, if you can please test it for me.
+- The RTS5209 Realtek PCIe SD Card Reader is not functioning properly (hot-plugging is not possible). You will need to insert the card before booting so macOS can recognize your card. And also, after putting your PC into sleep mode and wake it up again, the SD Card Reader no longer functions, so if you want to use the SD Card continuously please don't put the PC into sleep. ProDuo cards is not tested, if you can please test it for me.
 - Bluetooth is not working on AR9485 (since High Sierra maybe). Wi-FI is working but with a really slow speed.
 - Apple DRM contents (According to OpenCore Install Guide, DRM is broken on iGPU-only PCs)
 
