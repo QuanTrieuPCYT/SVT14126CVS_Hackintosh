@@ -1,5 +1,5 @@
-<h1>My_YT_Moaec OpenCore EFI</h1>
-<h2>Here you can download the EFI of QuanTrieuPCYT's new hackintosh PC!</h2>
+<h1>SVT14126CVS OpenCore EFI</h1>
+<h2>Here you can download the EFI of QuanTrieuPCYT's new hackintosh PC! (basically a SVT14126CVS without a screen, so if you want to use this EFI for your hackintosh please change framebuffers and shits in the config.plist)</h2>
 <h2>OpenCore 0.6.4 bootloader, with OpenCanopy Big Sur and Boot Chime!</h2>
 <p>Designed for Big Sur, Catalina and older please change SMBIOS.</p>
 
@@ -23,7 +23,7 @@ Specs:
 - SSD: Kingston V300 120GB
 - Wireless Card: AR9485
 - LAN Controller: RTL8111
-- HDMI as screen output.
+- HDMI as screen output (no LVDS).
 
 Everything is working on this PC running macOS except:
 - Unstable FireVault upport.
