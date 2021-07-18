@@ -2,8 +2,7 @@
 <h2>Here you can download the EFI of QuanTrieuPCYT's new hackintosh PC! (basically a SVT14126CVS without a screen, so if you want to use this EFI for your hackintosh please change framebuffers and shits in the config.plist)</h2>
 <h2>OpenCore 0.6.4 bootloader, with OpenCanopy Big Sur and Boot Chime!</h2>
 <p>Designed for Big Sur, Catalina and older please change SMBIOS.</p>
-![https://user-images.githubusercontent.com/73286927/126064336-a2d9b5c0-40fd-40bc-9083-57be133c8f25.png](https://user-images.githubusercontent.com/73286927/126064336-a2d9b5c0-40fd-40bc-9083-57be133c8f25.png)
-
+![126064336-a2d9b5c0-40fd-40bc-9083-57be133c8f25.png](https://user-images.githubusercontent.com/73286927/126064336-a2d9b5c0-40fd-40bc-9083-57be133c8f25.png)
 
 You want sidecar support? Go get <a href="https://github.com/hieplpvip/SidecarEnabler">Sidecar Enabler</a>!
 
