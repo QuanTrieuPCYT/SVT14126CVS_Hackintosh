@@ -14,6 +14,8 @@ If you have a Sony VAIO SVT14 with a Z40UL.MB motherboard, you can use this EFI!
 
 **Hackintosh (connected to an HDMI TV) next to a 13-inch Macbook Pro 2019**
 
+<br>
+
 Lemme tell you guys a story...
 <p>I had an old laptop, which is badly smashed (Sony VAIO SVT14126CVS).</p>
 <p>I pulled the mainboard out, removed the screen and the keyboard. Now it's a real Desktop PC.</p>
