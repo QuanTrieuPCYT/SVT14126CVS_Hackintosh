@@ -1,4 +1,4 @@
-<h1>SVT14126CVS OpenCore EFI</h1>
+<h1>SVT14126CVS OpenCore EFI - macOS 10.15 and 11 (not sure about 12 tho)</h1>
 <h2>Here you can download the EFI of QuanTrieuPCYT's new hackintosh PC! (basically a SVT14126CVS without a screen, so if you want to use this EFI for your hackintosh please change framebuffers and shits in the config.plist)</h2>
 <h2>OpenCore 0.6.4 bootloader, with OpenCanopy Big Sur and Boot Chime!</h2>
 <p>Designed for Big Sur, Catalina and older please change SMBIOS.</p>
