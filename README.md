@@ -4,7 +4,6 @@
 <p>Designed for Big Sur, Catalina and older please change SMBIOS.</p>
 ![image](https://user-images.githubusercontent.com/73286927/126064336-a2d9b5c0-40fd-40bc-9083-57be133c8f25.png)
 
-<p>Hackintosh machine next to a Macbook Pro 13-inch 2019. Both running macOS Big Sur</p>
 
 You want sidecar support? Go get <a href="https://github.com/hieplpvip/SidecarEnabler">Sidecar Enabler</a>!
 
