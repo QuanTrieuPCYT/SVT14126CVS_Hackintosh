@@ -12,7 +12,7 @@ If you have a Sony VAIO SVT14 with a Z40UL.MB motherboard, you can use this EFI!
 
 ![126064336-a2d9b5c0-40fd-40bc-9083-57be133c8f25.png](https://user-images.githubusercontent.com/73286927/126064336-a2d9b5c0-40fd-40bc-9083-57be133c8f25.png)
 
-**Hackintosh (connected to an HDMI TV) next to a 13-inch Macbook Pro 2019**
+**Hackintosh (connected to an HDMI TV) next to a 13-inch Macbook Pro 2019. Both running macOS Big Sur**
 
 <br>
 
