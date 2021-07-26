@@ -44,8 +44,8 @@ Specs:
 * Touchpad
 * Webcam
 * Touchscreen (ELAN)
+* CPU Power Management
 ## ❌ Not workin'
-* CPU Power Management (not something important but will be fixed in a future release)
 * SD Card hotplugging and after sleep (will be fixed in a later release)
 * **You tell me**
 
