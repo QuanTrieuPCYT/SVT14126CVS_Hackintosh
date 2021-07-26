@@ -17,7 +17,7 @@ If you have a Sony VAIO SVT14 with a Z40UL.MB motherboard, you can use this EFI!
 
 ![image](https://user-images.githubusercontent.com/73286927/126935674-246a37cc-b600-4109-b10f-f924a8f350f8.png)
 
-**Same Hackinth running macOS Catalina 10.15.6**
+**Same Hackintosh running macOS Catalina 10.15.6**
 
 <br>
 
